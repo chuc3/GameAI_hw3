@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BoidController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BoidController.cs" Line="34" Column="17" />
+      <File FileName="Assets\Scripts\BoidWatcher.cs" Line="10" Column="30" />
+      <File FileName="Assets\Scripts\BoidFlocking.cs" Line="70" Column="2" />
+      <File FileName="Assets\Scripts\FlockingAgent.cs" Line="66" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
