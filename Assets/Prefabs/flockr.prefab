@@ -28,9 +28,9 @@ GameObject:
   - 4: {fileID: 400002}
   - 33: {fileID: 3300002}
   - 23: {fileID: 2300002}
-  - 114: {fileID: 11400000}
   - 114: {fileID: 11400002}
   - 54: {fileID: 5400000}
+  - 114: {fileID: 11400000}
   m_Layer: 0
   m_Name: flockr
   m_TagString: Untagged
@@ -220,16 +220,11 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bce8db0aa1686884b9b12a3ef5187fe0, type: 3}
+  m_Script: {fileID: 11500000, guid: d58fa0d9da11ee74fb2a9342f82af70a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 250
-  gamePadPresent: 0
-  movedirection: {x: 0, y: 0, z: 0}
-  horPos: 0
-  verPos: 0
 --- !u!114 &11400002
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -46,11 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\PathFollow.cs" />
      <Compile Include="Assets\Scripts\BoidController.cs" />
      <Compile Include="Assets\Scripts\BoidFlocking.cs" />
      <Compile Include="Assets\Scripts\BoidWatcher.cs" />
      <Compile Include="Assets\Scripts\FlockingAgent.cs" />
      <Compile Include="Assets\Scripts\playerMovementScript.cs" />
+     <Compile Include="Assets\coneCheck.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
