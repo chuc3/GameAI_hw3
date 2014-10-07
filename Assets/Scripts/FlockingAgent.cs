@@ -57,7 +57,7 @@ public class FlockingAgent : MonoBehaviour {
 	}
 
 	public void Flock(){
-		Vector2 align = Align(sbirds, alignmentDistance, visionAngle);
+		Vector2 align = Align(birds, alignmentDistance, visionAngle);
 		Vector2 cohere = Cohere (birds, cohesionDistance);
 		Vector2 separate = Separate (birds, separationDistance);
 		
