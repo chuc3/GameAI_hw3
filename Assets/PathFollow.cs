@@ -16,7 +16,7 @@ public class PathFollow : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		count = 0;
-		step = .075f;
+		step = .05f;
 	}
 	
 	// Update is called once per frame
